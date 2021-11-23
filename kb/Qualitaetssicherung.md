@@ -46,8 +46,7 @@ Damit Unternehmen präzise hergestellte und hochwertige Produkte anbieten könne
 
 2.3. Die **Qualitätskontrolle** oder auch Qualitätsprüfung beinhaltet einen Soll-Ist-Vergleich, bei dem festgestellt wird, inwieweit Produkte die an sie gestellten Qualitätsanforderungen erfüllen. Die Qualitätskontrolle i.w.S. beinhaltet sowohl die Überprüfung der Entwurfsqualität als auch der Ausführungsqualität. Die Überprüfung der Ausführungsqualität als Qualitätskontrolle i.e.S. kann nach dem Umfang der durchzuführenden Kontrollmaßnahmen in Totalkontrolle und Partialkontrolle unterschieden werden. Durch die Partialkontrolle (statistische Qualitätskontrolle) wird versucht, mithilfe statistischer Methoden entweder Aussagen über den Zustand des Produktionsprozesses zu machen (Produktionskontrolle) oder Informationen über den Ausschussanteil eines gefertigten Loses zu erhalten (Abnahmeprüfung). Bei der Abnahmeprüfung werden Stichprobenprüfpläne verwendet, während bei der Produktionskontrolle die Kontrollkartentechnik zur Anwendung kommt. Eine Verbindung zwischen Produktionskontrolle und Abnahmeprüfung stellt die kontinuierliche Stichprobenprüfung dar.
 
-![bild](Qualitaetssicherung/qualitaetssicherung-44396)
-
+![bild](Qualitaetssicherung/qualitaetssicherung-44396.png) 
 
 # Beurteilung
 
